@@ -16,4 +16,4 @@ Pasos para agregar un cambio en GitHub
 
 `git add README.md`
 `git commit -m ""`
-`git pull""`
+`git push""`
