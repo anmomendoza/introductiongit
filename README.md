@@ -1,4 +1,4 @@
-# introductiongit
+# Introduction to Git
 
 Introduccion a *GitHub#* utilizando **git**.Un proyecto se puede clonar 
 
