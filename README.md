@@ -18,7 +18,7 @@ Pasos para agregar un cambio en GitHub
 `git commit -m ""`
 `git push""`
 
-##sección 2
+## Sección 2
 
 |Id | Profession | Age |
 |-- | -- | -- |
