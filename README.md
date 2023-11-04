@@ -17,3 +17,10 @@ Pasos para agregar un cambio en GitHub
 `git add README.md`
 `git commit -m ""`
 `git push""`
+
+##sección 2
+
+|Id | Profession | Age |
+|-- | -- | -- |
+|1 | Statistician | 25 |
+|2 | Writer | 32 |
